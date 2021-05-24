@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="62370966-4ed3-4156-a36b-3ad96906df48" name="supco" url="http://supco.ca">
+        <fileTransfer rootFolder="/public_html/wp-content/plugins/Supco-Core-Plugin" host="supco.ca" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

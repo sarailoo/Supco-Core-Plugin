@@ -1,0 +1,1 @@
+# Supco Core Plugin
